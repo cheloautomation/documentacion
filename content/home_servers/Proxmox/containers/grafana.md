@@ -4,7 +4,7 @@ date: 2023-04-13T09:23:56-04:00
 draft: false
 ---
 
-![Grafana](./images/Grafana_logo.jpg)
+![Grafana](./images/Grafana_logo.jpg?width=20pc)
 
 ## Que es grafana?
 
